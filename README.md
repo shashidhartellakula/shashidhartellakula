@@ -22,7 +22,7 @@ B.Tech 3rd Year @ CVR College of Engineering
 ```python
 shashidhar = {
     "college"  : "CVR College of Engineering",
-    "year"     : "B.Tech 3rd Year (3-2)",
+    "year"     : "B.Tech 3rd Year (4-1)",
     "focus"    : ["Cybersecurity", "Full Stack Development"],
     "currently": "Building intrusion detection tools for Linux",
     "learning" : ["Machine Learning", "Network Security", "Docker"],
